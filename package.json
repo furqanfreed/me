@@ -1,6 +1,6 @@
 {
     "name": "furqan-freed",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "furqanfreed.com",
     "bin": {
         "furqan": "./index.js"
